@@ -8,3 +8,7 @@
 /installer/tmp
 
 erl_crash.dump
+
+installer/_dev_app_01
+installer/_dev_app_02
+installer/dev_app
